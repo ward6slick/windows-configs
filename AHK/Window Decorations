@@ -1,0 +1,5 @@
+;+Caption
+LALT & WheelDown::
+WinSet, Style, ^0x80000, A
+return
+;
