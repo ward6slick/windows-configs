@@ -338,3 +338,37 @@ toolbarbutton#new-tab-button {
 #TabsToolbar{
 margin:0 !important;
 -moz-box-ordinal-group:101 !important;
+
+tabbrowser toolbarbutton[class^="scrollbutton"],
+#TabsToolbar toolbarbutton[class^="scrollbutton"]
+{
+    display: none !important;
+}
+
+#reload-button {
+  display: none !important;
+}
+
+#PanelUI-button {
+  border-inline-start: 0px !important;
+}
+
+.tabbrowser-tab .tab-icon-image {
+  display: none !important;
+}
+
+.tabbrowser-tab[pinned]:not([busy="true"]) .tab-icon-image {
+  display: block !important;
+  padding-block-start: -10px !important;
+  margin-left: 0px !important;
+  margin-right: 10px !important;
+  margin-bottom: 1px !important;
+}
+
+.tab-label-container[textoverflow]:not([pinned]) {
+  mask-image: unset !important;
+}
+
+.tabbrowser-tab :-moz-any(.tab-icon-sound, .tab-icon-overlay[soundplaying]) {
+  display: none !important;
+}
