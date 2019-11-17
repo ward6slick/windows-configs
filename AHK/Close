@@ -1,0 +1,5 @@
+;+Caption
+LALT & q::
+Send !{F4}
+return
+;
