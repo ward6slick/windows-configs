@@ -1,0 +1,99 @@
+Command Prompt|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Command Prompt.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\0.ico
+computer|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\computer.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\1.ico
+Console RAR manual|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\2.ico
+Control Panel|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Control Panel.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\3.ico
+Counter-Strike Global Offensive|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Counter-Strike Global Offensive.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\4.ico
+DOOM|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\DOOM.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\5.ico
+FadeTaskbar|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\FadeTaskbar.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\6.ico
+Fallout 4|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Fallout 4.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\7.ico
+File Explorer|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\File Explorer.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\8.ico
+For Honor|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\For Honor.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\9.ico
+Golf With Your Friends|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Golf With Your Friends.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\10.ico
+Grand Theft Auto V|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Grand Theft Auto V.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\11.ico
+Half-Life|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Half-Life.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\12.ico
+Internet Explorer|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Internet Explorer.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\13.ico
+LiLi USB Creator|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\LinuxLive USB Creator\LiLi USB Creator.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\14.ico
+Magnify|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Magnify.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\15.ico
+Narrator|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\16.ico
+Notepad|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Notepad.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\17.ico
+On-Screen Keyboard|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\18.ico
+OneDrive|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\OneDrive.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\19.ico
+Rainmeter|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\Rainmeter.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\20.ico
+Recycle Bin|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Recycle Bin.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\21.ico
+Run|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\Run.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\22.ico
+shutdown|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\shutdown.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\23.ico
+Steam|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\24.ico
+The Binding of Isaac|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\The Binding of Isaac.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\25.ico
+The Ultimate DOOM|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\The Ultimate DOOM.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\26.ico
+Tom Clancy's The Division|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Tom Clancy's The Division.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\27.ico
+Uplay|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Ubisoft\Uplay\Uplay.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\28.ico
+What is new in the latest version|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\What is new in the latest version.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\29.ico
+Windows PowerShell (x86)|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell (x86).lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\30.ico
+Windows PowerShell ISE (x86)|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE (x86).lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\31.ico
+Windows PowerShell ISE|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell ISE.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\32.ico
+Windows PowerShell|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Windows PowerShell\Windows PowerShell.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\33.ico
+WinRAR|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\34.ico
+Wolfenstein The New Order|C:\Users\Logan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Steam\Wolfenstein The New Order.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\35.ico
+Apple Software Update|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Apple Software Update.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\36.ico
+Character Map|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\System Tools\Character Map.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\37.ico
+Check For Updates|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Check For Updates.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\38.ico
+Classic Explorer Settings|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Classic Shell\Classic Explorer Settings.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\39.ico
+Classic IE Settings|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Classic Shell\Classic IE Settings.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\40.ico
+Classic Shell Readme|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Classic Shell\Classic Shell Readme.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\41.ico
+Classic Shell Update|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Classic Shell\Classic Shell Update.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\42.ico
+Classic Start Menu Settings|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Classic Shell\Classic Start Menu Settings.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\43.ico
+Component Services|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Component Services.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\44.ico
+Computer Management|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Computer Management.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\45.ico
+Configure Java|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Configure Java.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\46.ico
+Console RAR manual|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\Console RAR manual.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\47.ico
+dfrgui|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\dfrgui.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\48.ico
+Disk Cleanup|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Disk Cleanup.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\49.ico
+EULA|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Winaero Tweaker\EULA.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\50.ico
+Event Viewer|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Event Viewer.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\51.ico
+Firefox|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Firefox.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\52.ico
+foobar2000|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\foobar2000.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\53.ico
+GeForce Experience|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\NVIDIA Corporation\GeForce Experience.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\54.ico
+GIMP 2|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\GIMP 2.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\55.ico
+Google Chrome|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Google Chrome.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\56.ico
+iSCSI Initiator|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\iSCSI Initiator.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\57.ico
+iTunes|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iTunes\iTunes.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\58.ico
+Launch LightingController.exe|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\iBUYPOWER\LightingController\Launch LightingController.exe.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\59.ico
+Math Input Panel|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Math Input Panel.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\60.ico
+Memory Diagnostics Tool|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Memory Diagnostics Tool.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\61.ico
+Minecraft|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Minecraft\Minecraft.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\62.ico
+Mozilla Firefox|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Mozilla Firefox.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\63.ico
+ODBC Data Sources (32-bit)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (32-bit).lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\64.ico
+ODBC Data Sources (64-bit)|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\ODBC Data Sources (64-bit).lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\65.ico
+Paint|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Paint.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\66.ico
+Performance Monitor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Performance Monitor.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\67.ico
+Quick Assist|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Quick Assist.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\68.ico
+Rainmeter|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Rainmeter.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\69.ico
+Razer Synapse|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Razer\Razer Synapse\Razer Synapse.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\70.ico
+RecoveryDrive|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\RecoveryDrive.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\71.ico
+Remote Desktop Connection|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Remote Desktop Connection.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\72.ico
+Resource Hacker|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Resource Hacker\Resource Hacker.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\73.ico
+Resource Monitor|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Resource Monitor.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\74.ico
+services|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\services.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\75.ico
+Snipping Tool|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Snipping Tool.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\76.ico
+Speccy Homepage|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Speccy\Speccy Homepage.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\77.ico
+Speccy|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Speccy\Speccy.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\78.ico
+Speech Recognition|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessibility\Speech Recognition.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\79.ico
+Steam Support Center|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam\Steam Support Center.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\80.ico
+Steam|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Steam\Steam.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\81.ico
+Steps Recorder|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Steps Recorder.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\82.ico
+System Configuration|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Configuration.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\83.ico
+System Information|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\System Information.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\84.ico
+Task Manager|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Task Manager.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\85.ico
+Task Scheduler|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Task Scheduler.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\86.ico
+Visit Java.com|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Java\Visit Java.com.url|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\87.ico
+Waterfox|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Waterfox.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\88.ico
+What is new in the latest version|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\What is new in the latest version.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\89.ico
+Winaero Tweaker|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Winaero Tweaker\Winaero Tweaker.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\90.ico
+Winaero Website|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Winaero Tweaker\Winaero Website.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\91.ico
+Windows Defender Firewall with Advanced Security|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows Defender Firewall with Advanced Security.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\92.ico
+Windows Fax and Scan|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Fax and Scan.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\93.ico
+Windows Media Player|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Windows Media Player.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\94.ico
+Windows Media Player|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Windows Media Player.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\95.ico
+WinRAR|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\WinRAR\WinRAR.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\96.ico
+Wordpad|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\Wordpad.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\97.ico
+XPS Viewer|C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Accessories\XPS Viewer.lnk|C:\Users\Logan\Documents\Rainmeter\Skins\Polybar-master\@Resources\launcherIcon\98.ico
